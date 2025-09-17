@@ -3,7 +3,7 @@
 <TITLE>PAGINA 1 /2025</TITLE>
 </HEAD>
 
-<BODY BGCOLOR="blue" style="color:red">
+<BODY Backgroundcolor="blue" style="color:red">
 <BR>
 <CENTER>
 <H1 style="color:red"> MICHELL </H1>
